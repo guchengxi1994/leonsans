@@ -5,6 +5,8 @@ There are live examples at https://leon-kim.com/examples/
 
 And website at https://leon-kim.com/
 
+[![Video Label](https://raw.githubusercontent.com/cmiscm/leonsans/gh-pages/leon-youtube.jpg)](https://youtu.be/sb7v-d-R11E?hl=en&fs=1&cc_load_policy=1)
+
 ![uppercase](https://raw.githubusercontent.com/cmiscm/leonsans/gh-pages/screenshot/upper.gif)
 
 ![lowercase](https://raw.githubusercontent.com/cmiscm/leonsans/gh-pages/screenshot/lower.gif)
@@ -167,5 +169,5 @@ for (i = 0; i < total; i++) {
 | `point(ctx)`                | Draw circles at each drawing point and lines for each type. |
 | `box(ctx)`                | Draw outline box for the text. |
 | `reset()`                  | Reset all the values.  |
-| `destroy()`                  | Destroy.  |
+| `dispose()`                  | Dispose.  |
 
